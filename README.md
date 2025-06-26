@@ -124,7 +124,7 @@ Use MCP servers to integrate your local system tools with your enterprise collab
 ### Interact with your system
 
 ```text
-> Convert all the images in this directory to png, and rename them to use dates from the exif data.
+> Convert all the images in this directory to png, and rename them to use dates from the exit data.
 ```
 
 ```text
